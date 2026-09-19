@@ -1,0 +1,11 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "stellar",
+  "name": "Stellar",
+  "version": "1.0.0",
+  "developer": "Stellar Team",
+  "description": "A powerful quality-of-life mod for Geometry Dash."
+}
