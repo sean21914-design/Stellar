@@ -27,13 +27,10 @@ class $modify(StellarMenuLayer, MenuLayer) {
     }
 
     void onStellarButton(CCObject*) {
-        auto alert = FLAlertLayer::create(
+        FLAlertLayer::create(
             "STELLAR",
-            "Stellar menu is working! ⭐\n\n"
-            "This is the first version of the Stellar menu.",
+            "Welcome to the Stellar menu! ⭐",
             "Close"
-        );
-
-        alert->show();
+        )->show();
     }
 };
